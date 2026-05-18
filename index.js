@@ -10,7 +10,7 @@ const P = require("pino")
 // ================================
 // CHANGE THIS → TELEGRAM BOT TOKEN
 // ================================
-const TELEGRAM_TOKEN = "8919402080:AAHMbpgFJTK69rmH4UtuQrMXLoESsrk9ybA"
+const TELEGRAM_TOKEN = "7680868068:AAGcodbTBuiF8vjo0gGufO4b8AAGLv57CfE"
 
 // ================================
 // CHANGE THIS → YOUR TELEGRAM ID
